@@ -273,3 +273,70 @@ nav {
 .last-btn {
     text-align: center;
 }
+
+
+#footer {
+    background-color: rgb(255, 248, 243);
+    display: flex;
+    padding: 130px 230px;
+    gap: 117px;
+}
+
+.footer-left {
+    width: 562px;
+}
+
+
+.footer-left h4 {
+    color: rgb(24, 24, 24);
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.footer-left p {
+    color: rgb(71, 71, 71);
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    margin-bottom: 33px;
+}
+
+.footer-left ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+.footer-left ul li a {
+    text-decoration: none;
+    color: rgb(253, 110, 10);
+    font-size: 24px;
+    border: 1px dashed lightgrey;
+}
+
+.footer-right {
+    width: 461px;
+}
+
+
+
+.footer-right h4 {
+    color: rgb(24, 24, 24);
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 28px;
+}
+
+input[type="text"], input[type="email"], textarea {
+    width:461px;
+    margin-bottom: 24px;
+}
+
+.footer-right input[placeholder], textarea[placeholder] {
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    font-weight: 400;
+    padding: 18px 30px;
+    border: 0;
+}
