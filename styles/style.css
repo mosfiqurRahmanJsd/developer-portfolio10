@@ -13,7 +13,7 @@ header {
     background-image: url('./../images/developer.png'), url('./../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: top left, bottom right;
-    margin-bottom: 50px;
+    margin-bottom: 130px;
 }
 
 nav {
@@ -121,3 +121,52 @@ nav {
     align-items: end;
 }
 
+.about-me {
+    width: 1140px;
+    border-radius: 10px;
+    background: rgb(255, 248, 243);
+    margin: 0 auto;
+    padding: 130px 0;
+    margin-bottom: 130px;
+}
+
+.about {
+    width: 827px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.about-me h2 {
+    color: rgb(24, 24, 24);
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.about-me p {
+    color: rgb(117, 117, 117);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.my-details {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.my-details p {
+    color: rgb(117, 117, 117);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.my-details p a {
+    color: rgb(117, 117, 117);
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+}
