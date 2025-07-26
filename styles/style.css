@@ -213,3 +213,63 @@ nav {
     font-size: 16px;
     line-height: 28px;
 }
+
+.my-resume {
+    display: flex;
+    margin-bottom: 70px;
+}
+
+
+
+
+.resume h3 {
+    color: rgb(24, 24, 24);
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 113px;
+    text-align: center;
+}
+
+.education h4 {
+    color: rgb(71, 71, 71);
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.resume {
+    width: 1140px;
+    margin: 0 auto;
+    margin-bottom: 130px;
+}
+
+.resume-box {
+    margin-top: 30px;
+    width: 558px;
+    padding-top: 30px;
+    padding-right: 47px;
+}
+
+.resume-box h5 {
+    color: rgb(71, 71, 71);
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.resume-box h4 {
+    color: rgb(117, 117, 117);
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.resume-box p {
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.last-btn {
+    text-align: center;
+}
