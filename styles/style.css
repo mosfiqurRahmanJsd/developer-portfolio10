@@ -114,6 +114,7 @@ nav {
     font-weight: 700;
     border-radius: 5px;
     border: 1px solid rgb(253, 110, 10);
+    margin-left: 30px;
 }
 
 .banner-img {
@@ -333,7 +334,7 @@ input[type="text"], input[type="email"], textarea {
     margin-bottom: 24px;
 }
 
-.footer-right input[placeholder], textarea[placeholder] {
+input[placeholder], textarea[placeholder] {
     color: rgb(117, 117, 117);
     font-size: 16px;
     font-weight: 400;
