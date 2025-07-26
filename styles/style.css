@@ -18,10 +18,11 @@ header {
 
 nav {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     margin-top: 68px;
     margin-bottom: 50px;
+    padding: 0 105px;
 }
 
 .nav-title {
